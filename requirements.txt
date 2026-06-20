@@ -8,3 +8,4 @@ matplotlib
 osmnx
 torch
 torch-geometric
+scikit-learn
