@@ -1,0 +1,10 @@
+streamlit
+networkx
+folium
+streamlit-folium
+pandas
+numpy
+matplotlib
+osmnx
+torch
+torch-geometric
